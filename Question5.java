@@ -29,7 +29,7 @@ public class Question5
     Scanner in = new Scanner(System.in);
     int integer = in.nextInt();
     int[] nums = new int[integer];
-    for(int i=1; i<=integer; i++)
+    for(int i=0; i<integer; i++)
     {
       nums[i] = in.nextInt();
     }
