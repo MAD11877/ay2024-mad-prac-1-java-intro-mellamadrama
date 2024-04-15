@@ -24,7 +24,7 @@ public class Question4
       for(int j=integer; j>=1; j--)
       {
         if(j>=i)
-        System.out.println("*");
+        System.out.print("*");
       }
       System.out.println();
     }
