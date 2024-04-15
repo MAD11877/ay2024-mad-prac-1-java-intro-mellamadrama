@@ -52,5 +52,6 @@ public class Question5
         mode = nums[x];
       }
     }
+    System.out.print(mode);
   }
 }
