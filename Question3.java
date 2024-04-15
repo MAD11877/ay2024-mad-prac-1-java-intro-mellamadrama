@@ -14,7 +14,7 @@ public class Question3
     int integer = in.nextInt();
 
     int num = integer * integer;
-    System.out.print(num);
+    System.out.println(num);
     
   }
 }
